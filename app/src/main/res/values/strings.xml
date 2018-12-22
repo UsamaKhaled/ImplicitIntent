@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImplicitIntent</string>
+    <string name="call">call</string>
+
+</resources>
